@@ -1,0 +1,11 @@
+GET http://localhost:3000/api/v1/teams/
+
+###
+
+GET http://localhost:3000/api/v1/teams/65536df989bb09baa19db2ba
+
+### 
+GET http://localhost:3000/api/v1/teams/65536df989bb09baa19db29f
+
+### 
+GET http://localhost:3000/api/v1/teams/65536df989bb09baa19db2a1

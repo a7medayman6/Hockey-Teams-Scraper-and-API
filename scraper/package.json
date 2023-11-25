@@ -1,0 +1,26 @@
+{
+  "name": "hockey-teams-scraper",
+  "version": "1.0.0",
+  "description": "Web scraping application using Nodejs and cheerio.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "nodejs index.js"
+  },
+  "keywords": [
+    "webscraping",
+    "messagequeue",
+    "web",
+    "scraping",
+    "scraper"
+  ],
+  "author": "Ahmed Ayman",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.6.1",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
